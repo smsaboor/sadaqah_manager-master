@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "70982860828",
+    "firebase_url": "https://sadaqah-manager-a0934.firebaseio.com",
+    "project_id": "sadaqah-manager-a0934",
+    "storage_bucket": "sadaqah-manager-a0934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70982860828:android:ac4246c7752255744b1fd9",
+        "android_client_info": {
+          "package_name": "com.microanalyticals.sadaqah_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70982860828-472b638reab2s409dk6fop8brt4fcej9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microanalyticals.sadaqah_manager",
+            "certificate_hash": "e4b5c58d9a535c4e507f849227b6f5c742180ee9"
+          }
+        },
+        {
+          "client_id": "70982860828-g2mb0ff05pmb62comvc8mr5hqpfjb3cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microanalyticals.sadaqah_manager",
+            "certificate_hash": "8f7ec530b8a90a35becaec724ec3e391876050dc"
+          }
+        },
+        {
+          "client_id": "70982860828-4dhund510fd7tqh92qkl2ntuttjhakem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2-NcYaoe_V46ye88o56gOinnPQ0kiac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70982860828-4dhund510fd7tqh92qkl2ntuttjhakem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sadaqah Manager",
+  "exitConfirm": "Do you want to exit ?",
+  "yes": "Yes",
+  "no": "No",
+  "settings": "Settings",
+  "assets": "Assets",
+  "loan": "Loan",
+  "riba": "Riba",
+  "zakat":"Zakat",
+  "share": "Share",
+  "logout": "Logout"
+}

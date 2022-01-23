@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2020-06-02T23:24:18.550160",
+  "yes": "Yes",
+  "@yes": {
+    "description": "affirmative action",
+    "type": "text",
+    "placeholders": {}
+  }
+}
